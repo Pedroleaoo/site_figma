@@ -1,4 +1,4 @@
-import { Button } from "./ui/button";
+import { Button } from "./button";
 import { Calendar, Clock, MapPin } from "lucide-react";
 import { motion } from "motion/react";
 import { ImageWithFallback } from "./figma/ImageWithFallback";

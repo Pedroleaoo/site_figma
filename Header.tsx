@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { Button } from "./ui/button";
+import { Button } from "./button";
 import { Scissors, Menu, X } from "lucide-react";
 import { motion, AnimatePresence } from "motion/react";
 

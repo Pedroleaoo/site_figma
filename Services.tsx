@@ -1,6 +1,6 @@
 import { Scissors, Sparkles, Waves, Brush } from "lucide-react";
 import { motion } from "motion/react";
-import { Button } from "./ui/button";
+import { Button } from "./button";
 
 interface ServicesProps {
   onBookingClick: () => void;

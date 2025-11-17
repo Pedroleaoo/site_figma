@@ -1,10 +1,10 @@
 import { useState } from "react";
-import { Dialog, DialogContent, DialogHeader, DialogTitle } from "./ui/dialog";
-import { Button } from "./ui/button";
-import { Input } from "./ui/input";
-import { Label } from "./ui/label";
-import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "./ui/select";
-import { Calendar } from "./ui/calendar";
+import { Dialog, DialogContent, DialogHeader, DialogTitle } from "./dialog";
+import { Button } from "./button";
+import { Input } from "./input";
+import { Label } from "./label";
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "./select";
+import { Calendar } from "./calendar";
 import { Calendar as CalendarIcon, Clock, User, Phone, Mail, Scissors } from "lucide-react";
 import { format } from "date-fns";
 import { ptBR } from "date-fns/locale";
