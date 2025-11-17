@@ -1,13 +1,13 @@
 import { useState } from "react";
-import { Header } from "./components/Header";
-import { Hero } from "./components/Hero";
-import { Services } from "./components/Services";
-import { Gallery } from "./components/Gallery";
-import { Barbers } from "./components/Barbers";
-import { Testimonials } from "./components/Testimonials";
-import { Contact } from "./components/Contact";
-import { Footer } from "./components/Footer";
-import { BookingModal } from "./components/BookingModal";
+import { Header } from "./Header";
+import { Hero } from "./Hero";
+import { Services } from "./Services";
+import { Gallery } from "./Gallery";
+import { Barbers } from "./Barbers";
+import { Testimonials } from "./Testimonials";
+import { Contact } from "./Contact";
+import { Footer } from "./Footer";
+import { BookingModal } from "./BookingModal";
 
 export default function App() {
   const [isBookingOpen, setIsBookingOpen] = useState(false);

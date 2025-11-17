@@ -1,6 +1,6 @@
 import { motion } from "motion/react";
 import { MapPin, Phone, Mail, Clock, Instagram, Facebook } from "lucide-react";
-import { Button } from "./ui/button";
+import { Button } from "./button";
 
 export function Contact() {
   return (
